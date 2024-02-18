@@ -1,1 +1,1 @@
-<a hre="https://vercel.com/beingbadguy/grover-a-grocery-store"><Click to see live store/a>
+<a href="https://vercel.com/beingbadguy/grover-a-grocery-store">Click to see live store</a>
